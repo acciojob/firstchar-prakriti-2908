@@ -5,7 +5,7 @@ function firstChar(text) {
           return text.charAt(i);
       }
   }
-  let ans = " ";
+  let ans = "";
   return ans;
 	
 }
